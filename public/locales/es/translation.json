@@ -1,0 +1,19 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "works": "Trabajos",
+    "us": "El estudio",
+    "contact": "contacto"
+  },
+  "slider": {
+    "remark": "Cuidamos tu presencia en internet"
+  },
+  "lema": {
+    "hero": "Cuando la <strong>creatividad</strong><br>se une a la <strong>tecnología</strong><br><strong>todo</strong> es posible<br> "
+  },
+  "destacados": {
+    "d1": "En inHeron nos orgullecemos de poner a la <strong>persona</strong> por delante. Te asesoramos para que saques el mayor <strong>rendimiento</strong> a la red. Dejanos <strong>guiarte</strong> por internet, estás en buenas manos.",
+    "d2": "Trabajamos con la <strong>última tecnología</strong> para que tu presencia en la red sea moderna y actual. Nos aseguramos que seas <strong>visible</strong> desde cualquier dispositivo y desde cualquier punto de la red. Haz de internet tu escaparate.",
+    "d3": "Despega en internet con el <strong>menor esfuerzo</strong>. Te gestionamos toda la infraestructura de tus servicios. Deja el viaje en nuestras manos y preocúpate sólo de <strong>tu negocio</strong>, la parte técnica corre de nuestra cuenta."
+  }
+}

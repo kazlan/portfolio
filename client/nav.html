@@ -1,0 +1,38 @@
+<template name="nav">
+<div id="nav-container">
+  <div class="row">
+  <!-- NAVBAR -->
+    <div class="twelve columns">
+
+    <div class="navbar">
+      <a id="nav-toggle" class="toggle" gumby-trigger="#nav-ul" href="#"><i class="icon-menu"></i></a>
+      <!-- LANG-Picker -->
+      <div class="picker pull-left" style="margin-top:20px;">
+        <select id="lang-picker">
+          <option><a id="i18n-es" href="#" style="padding:10px;">ES</a>
+            </option>
+          <option><a id="i18n-en" href="#">EN</a>
+          </option>
+        </select>
+      </div>
+      <!-- fin LANG-picker -->
+      <ul id="nav-ul">
+        <li><a id="home-link" href="#" class="skip" 
+              gumby-goto="#nav-container" gumby-duration="1000"
+               data-i18n="nav.home"></a></li>
+        <li><a id="quienes-link" href="#" class="skip" 
+              gumby-goto="#destacados-container" gumby-duration="1000"
+              data-i18n="nav.works"></a></li>
+        <li><a id="skip-link" href="#" class="skip" gumby-duration="1000" 
+            gumby-goto="#ejemplos-container" data-i18n="nav.us"></a>
+        </li>
+        <li><a id="contacto-skip" href="#" class="skip" gumby-duration="1300" 
+              gumby-goto="#footer-container"
+              data-i18n="nav.contact"></a></li>
+      </ul>
+    </div>  
+  </div>
+<!-- FIN CONTENIDO NAVBAR -->
+  </div>
+</div>
+</template>

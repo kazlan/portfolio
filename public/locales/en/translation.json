@@ -1,0 +1,19 @@
+{
+  "nav": {
+    "home": "Home",
+    "works": "Works",
+    "us": "The studio",
+    "contact": "Contact"
+  },
+  "slider": {
+    "remark": "We care about your internet presence"
+  },
+  "lema": {
+    "hero": "When <strong>creativity</strong><br>meets <strong>technology</strong><br><strong>everything</strong> is possible<br> "
+  },
+  "destacados": {
+    "d1": "We at inHeron are proud to care about the <strong>Person</strong>. We will advice you so you make the best <strong>output</strong> out of the net. Let us <strong>guide you</strong>, you'll be in good hands.",
+    "d2": "We work with <strong>edge technology</strong> so your internet presence is fresh and sharp. We make sure you're <strong> visible</strong> from any new device and from any point around the net. Make Internet be your <strong>best showcase</strong>.",
+    "d3": "Take off with the <strong>smallest of efforts</strong>. We'll take care of all your services technical bits. Leave that journey to us and focus just on <strong>your business</strong>, we'll take care of all the technical stuff."
+  }
+}
